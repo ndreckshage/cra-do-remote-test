@@ -3,5 +3,5 @@
   "workspaceFolder": "/workspace",
   "workspaceMount": "source=cra-test,target=/workspace,type=volume",
   "extensions": ["dbaeumer.vscode-eslint", "esbenp.prettier-vscode"],
-  "forwardPorts": [3000]
+  "forwardPorts": [3030]
 }
